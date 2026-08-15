@@ -1,6 +1,14 @@
-{
-  "interstitial_1_pregame": "ca-app-pub-3940256099942544/1033173712",
-  "interstitial_2_back_home": "ca-app-pub-3940256099942544/1033173712",
-  "interstitial_3_retry_choose": "ca-app-pub-3940256099942544/1033173712",
-  "rewarded_video_id": "ca-app-pub-3940256099942544/5224354917"
-}
+
+    {
+      "interstitial_1_pregame": "ca-app-pub-3940256099942544/1033173712",
+      "interstitial_2_back_home": "ca-app-pub-3940256099942544/1033173712",
+      "interstitial_3_retry_choose": "ca-app-pub-6861716755919216/5118965859",
+      "rewarded_video_id": "ca-app-pub-6861716755919216/7013933234"
+    }
+
+
+   //   "interstitial_1_pregame": "ca-app-pub-6861716755919216/8327014906",
+   //   "interstitial_2_back_home": "ca-app-pub-6861716755919216/9807617530",
+   //   "interstitial_3_retry_choose": "ca-app-pub-6861716755919216/5118965859",
+   //   "rewarded_video_id": "ca-app-pub-6861716755919216/7013933234"
+
